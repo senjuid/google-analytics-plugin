@@ -3,5 +3,5 @@ repositories{
 }
 
 dependencies {
-    implementation 'com.github.senjuid:AndroidNotification:2.1'
+    // implementation 'com.github.senjuid:AndroidNotification:2.1'
 }
